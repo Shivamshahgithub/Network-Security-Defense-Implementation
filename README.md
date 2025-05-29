@@ -1,8 +1,8 @@
 # Network-Security-Defense-Implementation
-Brief Description
+<h2>Brief Description</h2>
     <p>Secured virtual networks using Security Onion IDS, pfSense firewall, and Kali Linux, effectively blocking DoS attacks, FTP exploits, and unauthorized access.<p>
 
-Tools &amp; Technologies
+<h2>Tools &amp; Technologies</h2>
     <p>Security Onion, pfSense, Kali Linux, Metasploit, Nmap, Cisco Packet Tracer<p>
 
 Project Report
