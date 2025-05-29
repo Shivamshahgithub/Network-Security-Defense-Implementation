@@ -1,4 +1,4 @@
-# Network-Security-Defense-Implementation
+# Network-Security & Defense Implementation
 <h2>Brief Description</h2>
     <p>Secured virtual networks using Security Onion IDS, pfSense firewall, and Kali Linux, effectively blocking DoS attacks, FTP exploits, and unauthorized access.<p>
 
